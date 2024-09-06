@@ -40,7 +40,7 @@ function addAll(a,b,c,d,e){
     console.log(a, b, c, d, e);
     console.log(total);
 }
-
+ 
 addAll(3, 5, 8, 41);
 addAll(3, 5, 4, 9, 4)
 
